@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is dog file
+=======
+ bulldog is my pet
+>>>>>>> c2b3e3613e23dd639a0978ac5311aa3de4036729
